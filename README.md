@@ -53,25 +53,24 @@ We will use Socket.io for web socket connections.
 
 ![ss1](https://github.com/don310/Wassup--Chat-App/blob/main/img/landing.png)
 
-![ss2](https://github.com/pri1311/crunch/blob/master/screenshots/landingPage2.png)
-
 ## Sign Up Page
 
-![ss3](https://github.com/pri1311/crunch/blob/master/screenshots/signUpPage.png)
+![ss3](https://github.com/pri1311/crunch/blob/master/screenshots/land.png)
 
 ## Main Page
 
-![ss4](https://github.com/pri1311/crunch/blob/master/screenshots/chatPage.png)
+![ss4](https://github.com/pri1311/crunch/blob/master/screenshots/mukul.png)
+![ss5](https://github.com/pri1311/crunch/blob/master/screenshots/deepak.png)
+
 
 ## Responsive
 
-![ss5](https://github.com/pri1311/crunch/blob/master/screenshots/LoginPageResponsive.png) ![ss6](https://github.com/pri1311/crunch/blob/master/screenshots/responsiveChatScreen.png)
+![ss6](https://github.com/pri1311/crunch/blob/master/screenshots/LoginPageResponsive.png) ![ss6](https://github.com/pri1311/crunch/blob/master/screenshots/responsiveChatScreen.png)
 
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [Priya Nagda](https://github.com/pri1311)
-- [Jainam Dharod]()
+- [Deepak Suyal](https://github.com/don310)
 
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
