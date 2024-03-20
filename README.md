@@ -20,7 +20,6 @@ We will use Socket.io for web socket connections.
 
 - [Future Scope](#future_scope)
 - [Getting Started](#getting_started)
-- [Technology Stack](#tech_stack)
 - [Screenshots](#screenshots)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
@@ -33,17 +32,18 @@ We will use Socket.io for web socket connections.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-- "git clone https://github.com/pri1311/crunch"
-- "cd crunch" 
-- "pip install -r requirements.txt"
-- Add your cloudinary credentials to main.py, auth.py and views.py files.
-- "python main.py" 
-
-
-## ⛏️ Built With <a name = "tech_stack"></a>
-
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-
+- "git clone https://github.com/don310/Wassup--Chat-App"
+- "cd Wassup" 
+- "npm install nodemon --save-devt"
+- 1. create npm project
+- 2. create index, css, js files
+- 3. Install dependencies. express, nodemon(dev dep.)
+- 4. create a express server (server.js)
+- 5. do frontend part
+- 6. Install socket.io, setup socket.io in server.js and client client.js
+- 7. client and message logic in client.js
+- 8. receive message on server and broadcast to all clients
+- 9. receive message on client and display it. scrolltobottom etc..
 
 
 ## 🤳 Screenshots <a name = "screenshots"></a>
@@ -66,7 +66,7 @@ We will use Socket.io for web socket connections.
 
 ## Responsive
 
-![ss7](https://github.com/pri1311/crunch/blob/master/screenshots/LoginPageResponsive.png) ![ss6](https://github.com/pri1311/crunch/blob/master/screenshots/responsiveChatScreen.png)
+![ss7](https://github.com/don310/Wassup--Chat-App/blob/main/img/responsive.png) ![ss6](https://github.com/don310/Wassup--Chat-App/blob/main/img/res.png)
 
 
 ## ✍️ Authors <a name = "authors"></a>
