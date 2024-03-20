@@ -55,7 +55,7 @@ We will use Socket.io for web socket connections.
 
 ## Sign Up Page
 
-![ss3](https://github.com/pri1311/crunch/blob/master/screenshots/land.png)
+![ss3]()
 
 ## Main Page
 
