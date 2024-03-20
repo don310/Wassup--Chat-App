@@ -55,17 +55,18 @@ We will use Socket.io for web socket connections.
 
 ## Sign Up Page
 
-![ss3]()
+![ss3](https://github.com/don310/Wassup--Chat-App/blob/main/img/land.png)
+![ss4](https://github.com/don310/Wassup--Chat-App/blob/main/img/emoji.png)
 
 ## Main Page
 
-![ss4](https://github.com/pri1311/crunch/blob/master/screenshots/mukul.png)
-![ss5](https://github.com/pri1311/crunch/blob/master/screenshots/deepak.png)
+![ss5](https://github.com/don310/Wassup--Chat-App/blob/main/img/deepak.png)
+![ss6](https://github.com/don310/Wassup--Chat-App/blob/main/img/mukul.png)
 
 
 ## Responsive
 
-![ss6](https://github.com/pri1311/crunch/blob/master/screenshots/LoginPageResponsive.png) ![ss6](https://github.com/pri1311/crunch/blob/master/screenshots/responsiveChatScreen.png)
+![ss7](https://github.com/pri1311/crunch/blob/master/screenshots/LoginPageResponsive.png) ![ss6](https://github.com/pri1311/crunch/blob/master/screenshots/responsiveChatScreen.png)
 
 
 ## ✍️ Authors <a name = "authors"></a>
