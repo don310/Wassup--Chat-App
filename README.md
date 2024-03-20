@@ -51,7 +51,7 @@ We will use Socket.io for web socket connections.
 
 ## Landing Page
 
-![ss1](https://github.com/pri1311/crunch/blob/master/screenshots/landingPage1.png)
+![ss1](https://github.com/don310/Wassup--Chat-App/main/master/screenshots/landingPage1.png)
 
 ![ss2](https://github.com/pri1311/crunch/blob/master/screenshots/landingPage2.png)
 
